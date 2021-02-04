@@ -1,0 +1,26 @@
+{
+  "name": "virtual-museum",
+  "version": "1.0.0",
+  "description": "Portfolio site for displaying artworks",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunchoitan/virtual-museum.git"
+  },
+  "author": "Hyun Choi <bloarin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyunchoitan/virtual-museum/issues"
+  },
+  "homepage": "https://github.com/hyunchoitan/virtual-museum#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "@babel/register": "^7.12.13",
+    "gulp": "^4.0.2"
+  }
+}
